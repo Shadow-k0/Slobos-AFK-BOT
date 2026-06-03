@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "deablo.aternos.me",
-    "port": 13493,
-    "version": "1.21.11"
+    "ip": "fadel_444.aternos.me",
+    "port": 56060,
+    "version": "1.20.4"
   },
   "position": {
     "enabled": true,
